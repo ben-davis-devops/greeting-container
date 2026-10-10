@@ -29,5 +29,5 @@ jobs:
       - name: Hadolint
         uses: hadolint/hadolint-action@v3.5.0
         with:
-          dockerfile: dockerfile
+          dockerfile: Dockerfile
           failure-threshold: warning
