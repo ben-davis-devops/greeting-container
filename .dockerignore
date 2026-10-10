@@ -1,0 +1,14 @@
+.DS_Store
+.idea
+.vscode
+*.iml
+
+.markdownlint-cli2-codequality.json
+
+.dockerignore
+.git
+.github
+.gitignore
+
+*.md
+LICENSE
